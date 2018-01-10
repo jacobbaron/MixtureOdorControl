@@ -1,0 +1,10 @@
+1-pentanol	10^-5
+3-pentanol	10^-6
+3-octanol	
+2,5-dimethylthiazole	
+acetal	
+2-phenyl ethanol	
+2-methoxyphenyl acetate	
+4-methyl-5-vinythiazole	
+geranyl acetate	
+anisole	

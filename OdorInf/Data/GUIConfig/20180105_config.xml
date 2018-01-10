@@ -1,0 +1,946 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>16.0f2</Version>
+<Cluster>
+<Name></Name>
+<NumElts>13</NumElts>
+<Array>
+<Name>Valves</Name>
+<Dimsize>10</Dimsize>
+<U16>
+<Name>Ring</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>1</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>2</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>3</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>6</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>7</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>8</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>9</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>10</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>11</Val>
+</U16>
+</Array>
+<Array>
+<Name>Concentration</Name>
+<Dimsize>10</Dimsize>
+<U16>
+<Name>Ring</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>1</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>1</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>1</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>1</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>1</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>0</Val>
+</U16>
+</Array>
+<Array>
+<Name>Odor</Name>
+<Dimsize>10</Dimsize>
+<U16>
+<Name>Ring</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>1</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>2</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>3</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>4</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>5</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>6</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>7</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>8</Val>
+</U16>
+<U16>
+<Name>Ring</Name>
+<Val>9</Val>
+</U16>
+</Array>
+<Array>
+<Name>Pressure Group</Name>
+<Dimsize>10</Dimsize>
+<EW>
+<Name>Enum</Name>
+<Choice>1</Choice>
+<Choice>2</Choice>
+<Choice>3</Choice>
+<Choice>4</Choice>
+<Val>2</Val>
+</EW>
+<EW>
+<Name>Enum</Name>
+<Choice>1</Choice>
+<Choice>2</Choice>
+<Choice>3</Choice>
+<Choice>4</Choice>
+<Val>2</Val>
+</EW>
+<EW>
+<Name>Enum</Name>
+<Choice>1</Choice>
+<Choice>2</Choice>
+<Choice>3</Choice>
+<Choice>4</Choice>
+<Val>2</Val>
+</EW>
+<EW>
+<Name>Enum</Name>
+<Choice>1</Choice>
+<Choice>2</Choice>
+<Choice>3</Choice>
+<Choice>4</Choice>
+<Val>2</Val>
+</EW>
+<EW>
+<Name>Enum</Name>
+<Choice>1</Choice>
+<Choice>2</Choice>
+<Choice>3</Choice>
+<Choice>4</Choice>
+<Val>3</Val>
+</EW>
+<EW>
+<Name>Enum</Name>
+<Choice>1</Choice>
+<Choice>2</Choice>
+<Choice>3</Choice>
+<Choice>4</Choice>
+<Val>3</Val>
+</EW>
+<EW>
+<Name>Enum</Name>
+<Choice>1</Choice>
+<Choice>2</Choice>
+<Choice>3</Choice>
+<Choice>4</Choice>
+<Val>3</Val>
+</EW>
+<EW>
+<Name>Enum</Name>
+<Choice>1</Choice>
+<Choice>2</Choice>
+<Choice>3</Choice>
+<Choice>4</Choice>
+<Val>3</Val>
+</EW>
+<EW>
+<Name>Enum</Name>
+<Choice>1</Choice>
+<Choice>2</Choice>
+<Choice>3</Choice>
+<Choice>4</Choice>
+<Val>2</Val>
+</EW>
+<EW>
+<Name>Enum</Name>
+<Choice>1</Choice>
+<Choice>2</Choice>
+<Choice>3</Choice>
+<Choice>4</Choice>
+<Val>2</Val>
+</EW>
+</Array>
+<Array>
+<Name>Mix Sequence Array</Name>
+<Dimsize>10</Dimsize>
+<Dimsize>10</Dimsize>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Boolean</Name>
+<Val>0</Val>
+</Boolean>
+</Array>
+<DBL>
+<Name>Start Water</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Base Dilution</Name>
+<Val>0.10000000000000</Val>
+</DBL>
+<U16>
+<Name>Max Number of
+Odors in Mixture</Name>
+<Val>10</Val>
+</U16>
+<Array>
+<Name>Default Pressures</Name>
+<Dimsize>4</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>340.57820667899915</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>989.02117060989849</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>888.07153320312500</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>853.35656738281250</Val>
+</DBL>
+</Array>
+<Array>
+<Name>Set Pressures Out</Name>
+<Dimsize>0</Dimsize>
+<DBL>
+<Name>output</Name>
+<Val></Val>
+</DBL>
+</Array>
+<Array>
+<Name>Mix Cluster</Name>
+<Dimsize>10</Dimsize>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>5</NumElts>
+<Boolean>
+<Name>Edit Mixture</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Mixture List</Name>
+<Val>1.0E-6 1-pentanol1.0E-7 3-pentanol1.0E-7 3-octanol1.0E-7 2,5-dimethylthiazole1.0E-6 acetal1.0E-6 2-phenyl ethanol1.0E-7 2-methoxyphenyl acetate1.0E-7 4-methyl-5-vinythiazole1.0E-6 geranyl acetate1.0E-6 anisole</Val>
+</String>
+<DBL>
+<Name>Odor Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Water Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<U16>
+<Name>Number of Odors</Name>
+<Val>10</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>5</NumElts>
+<Boolean>
+<Name>Edit Mixture</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Mixture List</Name>
+<Val>1.0E-6 1-pentanol1.0E-7 3-pentanol1.0E-7 3-octanol1.0E-7 2,5-dimethylthiazole1.0E-6 acetal1.0E-6 2-phenyl ethanol1.0E-7 2-methoxyphenyl acetate1.0E-7 4-methyl-5-vinythiazole1.0E-6 geranyl acetate</Val>
+</String>
+<DBL>
+<Name>Odor Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Water Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<U16>
+<Name>Number of Odors</Name>
+<Val>9</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>5</NumElts>
+<Boolean>
+<Name>Edit Mixture</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Mixture List</Name>
+<Val>1.0E-6 1-pentanol1.0E-7 3-pentanol1.0E-7 3-octanol1.0E-7 2,5-dimethylthiazole1.0E-6 acetal1.0E-6 2-phenyl ethanol1.0E-7 2-methoxyphenyl acetate1.0E-7 4-methyl-5-vinythiazole</Val>
+</String>
+<DBL>
+<Name>Odor Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Water Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<U16>
+<Name>Number of Odors</Name>
+<Val>8</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>5</NumElts>
+<Boolean>
+<Name>Edit Mixture</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Mixture List</Name>
+<Val>1.0E-6 1-pentanol1.0E-7 3-pentanol1.0E-7 3-octanol1.0E-7 2,5-dimethylthiazole1.0E-6 acetal1.0E-6 2-phenyl ethanol1.0E-7 2-methoxyphenyl acetate</Val>
+</String>
+<DBL>
+<Name>Odor Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Water Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<U16>
+<Name>Number of Odors</Name>
+<Val>7</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>5</NumElts>
+<Boolean>
+<Name>Edit Mixture</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Mixture List</Name>
+<Val>1.0E-6 1-pentanol1.0E-7 3-pentanol1.0E-7 3-octanol1.0E-7 2,5-dimethylthiazole1.0E-6 acetal1.0E-6 2-phenyl ethanol</Val>
+</String>
+<DBL>
+<Name>Odor Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Water Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<U16>
+<Name>Number of Odors</Name>
+<Val>6</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>5</NumElts>
+<Boolean>
+<Name>Edit Mixture</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Mixture List</Name>
+<Val>1.0E-6 1-pentanol1.0E-7 3-pentanol1.0E-7 3-octanol1.0E-7 2,5-dimethylthiazole1.0E-6 acetal</Val>
+</String>
+<DBL>
+<Name>Odor Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Water Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<U16>
+<Name>Number of Odors</Name>
+<Val>5</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>5</NumElts>
+<Boolean>
+<Name>Edit Mixture</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Mixture List</Name>
+<Val>1.0E-6 1-pentanol1.0E-7 3-pentanol1.0E-7 3-octanol1.0E-7 2,5-dimethylthiazole</Val>
+</String>
+<DBL>
+<Name>Odor Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Water Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<U16>
+<Name>Number of Odors</Name>
+<Val>4</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>5</NumElts>
+<Boolean>
+<Name>Edit Mixture</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Mixture List</Name>
+<Val>1.0E-6 1-pentanol1.0E-7 3-pentanol1.0E-7 3-octanol</Val>
+</String>
+<DBL>
+<Name>Odor Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Water Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<U16>
+<Name>Number of Odors</Name>
+<Val>3</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>5</NumElts>
+<Boolean>
+<Name>Edit Mixture</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Mixture List</Name>
+<Val>1.0E-6 1-pentanol1.0E-7 3-pentanol</Val>
+</String>
+<DBL>
+<Name>Odor Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Water Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<U16>
+<Name>Number of Odors</Name>
+<Val>2</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>5</NumElts>
+<Boolean>
+<Name>Edit Mixture</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Mixture List</Name>
+<Val>1.0E-6 1-pentanol</Val>
+</String>
+<DBL>
+<Name>Odor Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Water Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<U16>
+<Name>Number of Odors</Name>
+<Val>1</Val>
+</U16>
+</Cluster>
+</Array>
+<Cluster>
+<Name>Calibration Refs</Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Pressure Controller List</Name>
+<Dimsize>0</Dimsize>
+<U8>
+<Name>Numeric</Name>
+<Val></Val>
+</U8>
+</Array>
+<Array>
+<Name>Ratio List</Name>
+<Dimsize>0</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val></Val>
+</DBL>
+</Array>
+<Array>
+<Name>Valve List</Name>
+<Dimsize>0</Dimsize>
+<U16>
+<Name>Ring</Name>
+<Val></Val>
+</U16>
+</Array>
+</Cluster>
+<U16>
+<Name>Number of Periods</Name>
+<Val>10</Val>
+</U16>
+</Cluster>
+</LVData>
