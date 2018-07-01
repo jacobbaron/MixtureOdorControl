@@ -1,10 +1,25 @@
 1-pentanol	10^-5
 3-pentanol	10^-6
-3-octanol	
-2,5-dimethylthiazole	
-acetal	
-2-phenyl ethanol	
+3-octanol	10^-4
+2,5-dimethylthiazole	200
+acetal	10^-7
+2-phenylethanol	10^-8
 2-methoxyphenyl acetate	
 4-methyl-5-vinythiazole	
 geranyl acetate	
 anisole	
+water	
+methyl phenyl sulfide	
+4-methyl-5-vinythiazole	
+2,5-dimethylpyrazine	
+Fructose	
+4-phenyl-2-butanol	
+methyl salicylate	
+2-heptanone	
+menthol	
+ethyl acetate	
+Fructose	
+4-hexen-3-one	
+pentyl acetate	
+3-octanol	
+hexyl acetate	
