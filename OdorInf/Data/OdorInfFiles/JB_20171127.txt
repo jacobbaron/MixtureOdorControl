@@ -23,3 +23,4 @@ Fructose
 pentyl acetate	
 3-octanol	
 hexyl acetate	
+4-hexen-3-one	
