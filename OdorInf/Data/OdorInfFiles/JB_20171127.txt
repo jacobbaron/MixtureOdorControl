@@ -4,23 +4,39 @@
 2,5-dimethylthiazole	200
 acetal	10^-7
 2-phenylethanol	10^-8
-2-methoxyphenyl acetate	
-4-methyl-5-vinythiazole	
-geranyl acetate	
-anisole	
-water	
-methyl phenyl sulfide	
-4-methyl-5-vinythiazole	
-2,5-dimethylpyrazine	
-Fructose	
-4-phenyl-2-butanol	
-methyl salicylate	
-2-heptanone	
-menthol	
-ethyl acetate	
-Fructose	
-4-hexen-3-one	
-pentyl acetate	
-3-octanol	
-hexyl acetate	
-4-hexen-3-one	
+2-methoxyphenyl acetate	20
+4-methyl-5-vinythiazole	100
+geranyl acetate	500
+anisole	2.5e-6
+water	6.7e-8
+methyl phenyl sulfide	3.6e-5
+4-methyl-5-vinythiazole	4.5e-8
+2,5-dimethylpyrazine	4.5e-6
+Fructose	2.1e-6
+4-phenyl-2-butanol	2.3e-5
+methyl salicylate	1.2e-6
+2-heptanone	1.6e-6
+menthol	1.1e-5
+ethyl acetate	1.9e-5
+Fructose	9e-8
+4-hexen-3-one	3.2e-7
+pentyl acetate	3.2e-6
+3-octanol	9e-6
+hexyl acetate	2.4e-6
+4-hexen-3-one	3.9e-5
+Fluorescein	7.2e-5
+2-acetylpyridine	2.2e-5
+nonane	5e-6
+trans,trans-2,4-nonadienal	5e-6
+4,5-dimethylthiazole	Add new...
+2-nonanone	7e-6
+Add new...	8e-6
+Add new...	3e-6
+	3e-5
+	7e-8
+	4e-6
+	9e-8
+	7e-6
+	2e-5
+	2e-6
+	Add new...
